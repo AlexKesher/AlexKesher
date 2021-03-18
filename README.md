@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Alex
+- I’m currently learning Android development
+- I will upload here a few of my learning apps, which I'm not too ashamed of
